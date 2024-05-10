@@ -1,0 +1,9 @@
+h1 {
+  font-size: 50px;
+}
+
+dd {
+  font-style: italic;
+  font-size: 1rem;
+  font-weight: bold;
+}
